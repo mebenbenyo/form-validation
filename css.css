@@ -1,0 +1,16 @@
+.warning {
+    color: red;
+    size: 10pt;
+}
+
+#username {
+    margin-bottom: 10px;
+}
+
+#terms {
+    margin-top: 10px;
+}
+
+.error {
+    border-color: red;
+}
